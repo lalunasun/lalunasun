@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Luna 🍓
 
-<!--
-**lalunasun/lalunasun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital Marketing & Growth Operator with a strong technical background.
 
-Here are some ideas to get you started:
+## What I Do
+- Google Ads / SEO / Email Marketing
+- Data analysis (Python / SQL / GA4)
+- Marketing automation (n8n / Shopify)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- StrawberryCRM 🍓 (Email knowledge base In Progress)
+- Shopify Automation System
+- Courseware System (Full-stack)
+- Booking System (Web + Mobile)
+
+## Currently Building
+- AI-assisted CRM system for email workflows 
