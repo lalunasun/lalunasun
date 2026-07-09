@@ -1,4 +1,4 @@
-# Hi, I'm Luna 🍓
+# Hi, I'm Luna (●'◡'●)
 
 Digital Marketing & Growth Operator with a strong technical background.
 
@@ -11,7 +11,7 @@ Digital Marketing & Growth Operator with a strong technical background.
 - StrawberryCRM 🍓 (Email knowledge base In Progress)
 - Shopify Automation System
 - Courseware System (Full-stack)
-- Booking System (Web + Mobile)
+- Booking System 🐶(Web + Mobile)
 
 ## Currently Building
 - AI-assisted CRM system for email workflows
